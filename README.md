@@ -20,5 +20,9 @@
 * 192.168.0.32/28 - office hardware
 * 192.168.0.64/26 - wifi
 3. ![alt text](./Pictures/1.png)
-4.
+4. посчитаны данные по подсетям и подготовлена следующая таблица топологии сети:
   ![image](https://github.com/user-attachments/assets/b6d191bd-6fa3-432f-882d-d4363573e479)
+5. Видим, что ошибок при планировании сети нет, а также о наличии свободных подсетей:
+6. ![image](https://github.com/user-attachments/assets/3f37989c-bc61-46e8-a2ef-52aa325dd409)
+  
+  
